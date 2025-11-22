@@ -4,7 +4,7 @@
   
 <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&size=25&pause=200&color=EF864D&width=710&lines=keep+it+simple%2C+it's+down+to+the+beat;another+clich%C3%A9+just+makes+the+song+complete;win+or+lose%2C+it's%2C+it's+on+production+line;carbon+copies+singing+the+same+old+rhymes" alt="Typing SVG" /></a>
 
-  <img src="https://64.media.tumblr.com/3cfdd5d70b661d8cf3b9a16769067f07/5f2ee4abc489aa3c-ec/s1280x1920/e7a9af51e89ac5390e8505d5baed67c2a6bde892.pnj" width="230px"><img src="https://64.media.tumblr.com/0e0d5149aa5116e760ccbc5412b68a56/5f2ee4abc489aa3c-12/s540x810/d14850e343e172619d42fe045809b5ccacd2cf1e.pnj" width="230px"><img src="https://64.media.tumblr.com/84922a3782d79f2d45bc38c160bdee17/5f2ee4abc489aa3c-50/s1280x1920/1d1e82aedf73ffedabf52ea8994c590dedad3fdb.pnj" width="230px">
+  <img src="https://64.media.tumblr.com/810da103ff9fb87b1d05f330291ade91/a904b175def60916-bc/s400x600/683623bab2405a7149acd7bf898d3e1631e3f40c.pnj" width="200px"><img src="https://64.media.tumblr.com/4b308776e908ad7765cd08fa4b1e9132/a904b175def60916-54/s400x600/34102bfc1a31b33745a12dde1a6e4a5e41db5ee7.pnj" width="200px"><img src="https://64.media.tumblr.com/10bc07ed7e83d88bc55905ac5fd7944f/a904b175def60916-5f/s400x600/e96c8d188e51764679ce3a01f9e9dfec2494fa0e.pnj" width="200px">
 <br>
 
 
